@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.jar
+*.interp
+*.tokens
+test_parser.py
+config_examples.txt
+homework_variant_1.zip
